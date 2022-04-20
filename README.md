@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+## 🔭 About me
+I am working as an AI Engineer at FPT Software AI Center. Currently, I'm doing research on Deep Learning methods for Tabular data to apply to the current company's project.
+
+As the Vice President of SOICT Innovation Club, I and my friends organize many programming-related events for students in our School and University, as well as doing projects for application purposes or for competitions/hackathons.
+
+I am still finishing my Computer Science degree at Hanoi University of Science and Technology, and I aim for the High Distinction degree type.
+
 
 <!--
 **DungMinhDao/DungMinhDao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
