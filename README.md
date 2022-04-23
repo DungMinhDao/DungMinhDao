@@ -1,4 +1,6 @@
 # Hi there 👋
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 ## 🔭 About me
 I am working as an AI Engineer at FPT Software AI Center. Currently, I'm doing research on Deep Learning methods for Tabular data to apply to the current company's project.
 
