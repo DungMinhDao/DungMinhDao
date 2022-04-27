@@ -1,5 +1,7 @@
 # Hi there 👋
+
 <img src="https://komarev.com/ghpvc/?username=DungMinhDao" alt="https://github.com/DungMinhDao" />
+
 ## 🔭 About me
 I am working as an AI Engineer at FPT Software AI Center. Currently, I'm doing research on Deep Learning methods for Tabular data to apply to the current company's project.
 
