@@ -1,51 +1,52 @@
-# Hi there 👋
-CHECKOUT MY GITHUB PAGES AT: https://dungminhdao.github.io/
+# Minh-Dung Dao
 
-If you find any of my repositories to be helpful, please give me stars ⭐ as an encouragement!
+PhD researcher in Computer Science at University College Cork, in the Reliable AI Lab (RAIL), funded by the Research Ireland Centre for Research Training in AI (CRT-AI).
 
-<img src="https://komarev.com/ghpvc/?username=DungMinhDao" alt="https://github.com/DungMinhDao" />
+I build AI that clinicians and educators can trust. Working with UCC's ASSERT clinical simulation centre and the National Learning Analytics Unit, I'm developing an AI assessment system for simulation-based clinical training. It scores performance from multi-camera video, thermal imaging, audio and speech, ties every score to time-stamped evidence, and defers to the educator when that evidence isn't strong enough. I also work on LLM agents and multi-agent systems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DungMinhDao&show_icons=true&theme=cobalt)
+[Website](https://dungminhdao.github.io) | [Google Scholar](https://scholar.google.com/citations?user=8LYIuXYAAAAJ) | [LinkedIn](https://www.linkedin.com/in/minhdungdao) | [ORCID](https://orcid.org/0009-0001-8353-0343)
 
-## 🛠️ Technologies & Tools
+## Research interests
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+- Reliable multimodal AI: evidence-grounded, calibrated assessment
+- AI for clinical education and patient safety
+- LLM agents, agentic design patterns and multi-agent collaboration
 
-![](https://img.shields.io/badge/Cloud-Google%20Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tool-Jupyter%20Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Library-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+## Publications
 
-## 🔭 About me
-I am working as an AI Engineer at FPT Software AI Center. Currently, I'm doing research on Deep Learning methods for Tabular data to apply to the current company's project.
+I publish as Minh-Dung Dao. Earlier papers list me as Dung Dao.
 
-As the Vice President of SOICT Innovation Club, I and my friends organize many programming-related events for students in our School and University, as well as doing projects for application purposes or for competitions/hackathons.
+- **Agentic Design Patterns: A System-Theoretic Framework**  
+  **Minh-Dung Dao**\*, Q. M. Le\*, H. T. Lam, D.-T. Le, Q.-V. Pham, B. O'Sullivan, H. D. Nguyen  
+  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models (LAW) | [arXiv](https://arxiv.org/abs/2601.19752)
+- **AI-Empowered Handover Tool Design in Medical Practice Towards Patient Safety**  
+  K. Salim, **Minh-Dung Dao**, H. D. Nguyen  
+  HCI International 2026 (SCSM), Springer LNCS | [DOI](https://doi.org/10.1007/978-3-032-31407-9_21)
+- **Multi-Agent Collaboration Mechanisms: A Survey of LLMs**  
+  K.-T. Tran, **Dung Dao**, M.-D. Nguyen, Q.-V. Pham, B. O'Sullivan, H. D. Nguyen  
+  arXiv, 2025 | [arXiv](https://arxiv.org/abs/2501.06322)
+- **LLM-Powered Multimodal AI Conversations for Diabetes Prevention**  
+  **Dung Dao**, J. Y. C. Teo, W. Wang, H. D. Nguyen  
+  AIQAM '24 Workshop at ACM ICMR 2024 | [DOI](https://doi.org/10.1145/3643479.3662049)
+- **VinaLLaMA: LLaMA-based Vietnamese Foundation Model**  
+  Q. Nguyen, H. Pham, **Dung Dao**  
+  arXiv, 2023 | [arXiv](https://arxiv.org/abs/2312.11011)
 
-I am still finishing my Computer Science degree at Hanoi University of Science and Technology
+\* Equal contribution. Full list on [Google Scholar](https://scholar.google.com/citations?user=8LYIuXYAAAAJ).
 
-## 📫 Reach me on
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/dung-dao-402826169/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.facebook.com/minhdung.dao.31/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:dungdao3112000@gmail.com?subject=Hello%20Dung%20Dao,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+## Before the PhD
 
-<!--
-**DungMinhDao/DungMinhDao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **FPT Software AI Center**, AI Resident (2 years): fine-tuned and deployed LLMs for domain-specific chatbots; built time-series models for industry clients
+- **Vingroup Big Data Institute**: speech classification models for the ViVi voice assistant in VinFast cars
+- **WorldQuant University**, MSc in Financial Engineering: [capstone on deep learning for currency pair trading](https://github.com/DungMinhDao/pair-trading-currency-deep-learning)
 
-Here are some ideas to get you started:
+## Service and awards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Session chair, "Agentic AI and Data Analytics", HCI International 2026
+- Reviewer for NeurIPS, ECAI, ICDM, AICS and MMM
+- Irish Collegiate Programming Contest: Third Prize (2025), 4th place (2024)
+- Vice President, Vietnamese Students' Association in Ireland (SVIE)
+
+---
+
+Most of my PhD work uses clinical recordings that can't be shared, so the day-to-day code lives in private repositories.
